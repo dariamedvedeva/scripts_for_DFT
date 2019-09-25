@@ -12,7 +12,7 @@ print("\n")
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print("\n")
 
-path_to_file = "/Users/witcher/workspace/CoCu15/LDA/"
+path_to_file = "/User/path/"
 filename     = path_to_file + "cub.dos"
 beta         = 100
 idelta       = 1j * math.pi / beta
