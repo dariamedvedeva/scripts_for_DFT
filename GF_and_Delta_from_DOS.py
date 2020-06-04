@@ -10,7 +10,7 @@ print(" Script for construction of GF from DFT DOS (Sigma is 0)")
 print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print("\n")
 
-path_to_file = "/Users/witcher/workspace/CoCu15/LDA/"
+path_to_file = "./"
 filename     = path_to_file + "cub.dos"
 beta         = 40
 idelta       = 1j * math.pi / beta
